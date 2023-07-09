@@ -1,3 +1,7 @@
+# 0.3.0
+
+- `BaseUserFormRequest` implemented.
+
 # 0.2.2
 
 - `namespaces` fixed.
