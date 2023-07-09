@@ -5,7 +5,10 @@
     "autoload": {
         "psr-4": {
             "Pableiros\\BaseFoundationLaravel\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers.php"
+        ]
     },
     "authors": [
         {

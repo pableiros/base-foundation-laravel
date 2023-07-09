@@ -6,6 +6,7 @@
 - `CoreModel` implemented.
 - `BaseModel` implemented.
 - `PaginateModel` implemented.
+- `helpers.php` added.
 
 # 0.1.0
 
