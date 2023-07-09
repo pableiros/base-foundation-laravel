@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Base;
+namespace Pableiros\BaseFoundationLaravel\Models;
 
 use Illuminate\Support\Facades\DB;
 use Illuminate\Database\Eloquent\Model;

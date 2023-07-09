@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Base;
+namespace Pableiros\BaseFoundationLaravel\Models;
 
 use Illuminate\Database\Eloquent\SoftDeletes;
 

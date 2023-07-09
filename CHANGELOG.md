@@ -5,6 +5,7 @@
 - `AuthController` implemented.
 - `CoreModel` implemented.
 - `BaseModel` implemented.
+- `PaginateModel` implemented.
 
 # 0.1.0
 
