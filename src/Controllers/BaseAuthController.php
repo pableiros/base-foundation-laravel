@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace Pableiros\BaseFoundationLaravel\Controllers;
 
 use Illuminate\Support\Facades\Auth;
 use Pableiros\BaseFoundationLaravel\Requests\LoginFormRequest;

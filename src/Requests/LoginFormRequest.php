@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Requests;
+namespace Pableiros\BaseFoundationLaravel\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 

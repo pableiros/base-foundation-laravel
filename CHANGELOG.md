@@ -1,3 +1,7 @@
+# 0.2.2
+
+- `namespaces` fixed.
+
 # 0.2.1
 
 - `AuthController` renamed to `BaseAuthController`.
