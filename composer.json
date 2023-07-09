@@ -1,0 +1,16 @@
+{
+    "name": "pableiros/base-foundation-laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pableiros\\BaseFoundationLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pablo Bórquez Urquidy",
+            "email": "pablo.borquez.urquidy@gmail.com"
+        }
+    ]
+}
