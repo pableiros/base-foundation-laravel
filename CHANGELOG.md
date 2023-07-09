@@ -1,3 +1,7 @@
+# 0.2.1
+
+- `AuthController` renamed to `BaseAuthController`.
+
 # 0.2.0
 
 - `LoginFormRequest` implemented.

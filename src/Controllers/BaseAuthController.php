@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Auth;
 use Pableiros\BaseFoundationLaravel\Requests\LoginFormRequest;
 use Pableiros\BaseFoundationLaravel\Controllers\Controller;
 
-abstract class AuthController extends Controller
+abstract class BaseAuthController extends Controller
 {
     public function login(LoginFormRequest $request)
     {

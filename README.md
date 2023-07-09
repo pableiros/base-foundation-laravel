@@ -7,7 +7,7 @@
 ```json
 {
     "name": "laravel/laravel",
-    ...
+
     "repositories": [
         {
             "type": "vcs",
