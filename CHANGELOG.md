@@ -4,6 +4,7 @@
 - `BaseUser` implemented.
 - `AuthController` implemented.
 - `CoreModel` implemented.
+- `BaseModel` implemented.
 
 # 0.1.0
 
