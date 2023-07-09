@@ -2,6 +2,7 @@
 
 - `LoginFormRequest` implemented.
 - `BaseUser` implemented.
+- `AuthController` implemented.
 
 # 0.1.0
 
