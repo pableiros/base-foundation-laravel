@@ -3,6 +3,7 @@
 - `LoginFormRequest` implemented.
 - `BaseUser` implemented.
 - `AuthController` implemented.
+- `CoreModel` implemented.
 
 # 0.1.0
 
