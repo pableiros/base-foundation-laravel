@@ -1,3 +1,7 @@
+# 0.4.1
+
+- `namespaces` fixed.
+
 # 0.4.0
 
 - `CSVSeeder` implemented.
