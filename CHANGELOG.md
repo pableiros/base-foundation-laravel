@@ -1,3 +1,7 @@
+# 0.4.0
+
+- `CSVSeeder` implemented.
+
 # 0.3.0
 
 - `BaseUserFormRequest` implemented.
