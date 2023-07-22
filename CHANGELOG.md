@@ -1,3 +1,7 @@
+# 0.6.0
+
+- `UpdateUserFormRequest` implemented.
+
 # 0.5.1
 
 - `BaseFormRequest` bug fixed.
