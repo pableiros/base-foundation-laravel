@@ -1,3 +1,7 @@
+# 0.5.0
+
+- `BaseFormRequest` implemented.
+
 # 0.4.1
 
 - `namespaces` fixed.
