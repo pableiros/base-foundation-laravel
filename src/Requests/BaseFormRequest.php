@@ -4,7 +4,7 @@ namespace Pableiros\BaseFoundationLaravel\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-class BaseFormRequest extends BaseFormRequest
+class BaseFormRequest extends FormRequest
 {
     public const ARRAY_RULES = ['required', 'array'];
     public const ARRAY_RULES_NULLABLE = ['nullable', 'array'];

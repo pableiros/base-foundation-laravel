@@ -1,3 +1,7 @@
+# 0.5.1
+
+- `BaseFormRequest` bug fixed.
+
 # 0.5.0
 
 - `BaseFormRequest` implemented.
