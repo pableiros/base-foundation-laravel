@@ -2,8 +2,6 @@
 
 namespace Pableiros\BaseFoundationLaravel\Requests;
 
-use Illuminate\Foundation\Http\FormRequest;
-
 class BaseUserFormRequest extends BaseFormRequest
 {
     /**

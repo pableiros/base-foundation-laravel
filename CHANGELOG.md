@@ -1,6 +1,7 @@
 # 0.5.0
 
 - `BaseFormRequest` implemented.
+- `RFCFormRequestTrait` implemented.
 
 # 0.4.1
 
