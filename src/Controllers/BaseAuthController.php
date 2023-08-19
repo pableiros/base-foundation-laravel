@@ -44,9 +44,9 @@ abstract class BaseAuthController extends Controller
         return auth()->user()->toArray();
     }
 
-    // MARK: - private
+    // MARK: - protected
 
-    private function performLogin($request)
+    protected function performLogin($request)
     {
         $credentials = request(['email', 'password']);
         $response = null;

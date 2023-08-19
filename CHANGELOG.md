@@ -1,3 +1,7 @@
+# 0.6.1
+
+- `performLogin` set to `protected`.
+
 # 0.6.0
 
 - `UpdateUserFormRequest` implemented.
